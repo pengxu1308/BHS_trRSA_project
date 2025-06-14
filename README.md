@@ -18,8 +18,12 @@ Behavioral data is the Behavioral_variables.mat file (aggregated data per partic
 
 Channels_clusters.png: location of EEG sensors.
 
-EEGdata.zip: raw data downloaded from OSF.
+EEGdata.zip: raw data downloaded from OSF.(SEE UPDATES)
 
 preproc(folder): it contains the preproccessed EEG data(after unzip the file).
 
 preprocess.m: preprocessing method from the original paper.
+
+
+# updates
+it seems like the EEGdata.zip file is too large to upload, so there's no such a file in this repository. One can get the full data set from OSF.
